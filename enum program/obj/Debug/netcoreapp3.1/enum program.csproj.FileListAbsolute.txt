@@ -1,0 +1,13 @@
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\bin\Debug\netcoreapp3.1\enum program.exe
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\bin\Debug\netcoreapp3.1\enum program.deps.json
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\bin\Debug\netcoreapp3.1\enum program.runtimeconfig.json
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\bin\Debug\netcoreapp3.1\enum program.runtimeconfig.dev.json
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\bin\Debug\netcoreapp3.1\enum program.dll
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\bin\Debug\netcoreapp3.1\enum program.pdb
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.csprojAssemblyReference.cache
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.AssemblyInfoInputs.cache
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.AssemblyInfo.cs
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.csproj.CoreCompileInputs.cache
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.dll
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.pdb
+C:\Users\shivasingh\source\repos\Assignmentc\enum program\obj\Debug\netcoreapp3.1\enum program.genruntimeconfig.cache
